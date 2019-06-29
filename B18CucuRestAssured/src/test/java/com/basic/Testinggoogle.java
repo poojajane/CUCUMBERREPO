@@ -1,7 +1,8 @@
 package com.basic;
 
 
-import org.testng.Assert;
+
+import org.junit.Assert;
 import org.testng.annotations.Test;
 
 import io.restassured.RestAssured;
